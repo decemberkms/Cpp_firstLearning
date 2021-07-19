@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="01_main_sorting.cpp">
+    <ClCompile Include="01_main_multiArray.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
