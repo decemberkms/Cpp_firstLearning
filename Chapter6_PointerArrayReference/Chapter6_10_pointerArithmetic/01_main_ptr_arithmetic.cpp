@@ -18,7 +18,7 @@ int main()
 
 	//for (int i = 0; i < 5; ++i)
 	//{
-	//	cout << array1[i] << " " << (uintptr_t)&array1[i] << endl;// array is just an long standing data cells.
+	//	cout << array1[i] << " " << (uintptr_t)&array1[i] << endl;// array is just a long standing data cells.
 	//	cout << *(ptr + i) <<  " " << (uintptr_t)(ptr + i) << endl;
 
 	//}

@@ -19,7 +19,7 @@ int main()
 
 	cout << (uintptr_t)name << endl;
 	cout << (uintptr_t)name2 << endl;
-	//cout << (uintptr_t)name2 << endl;
+	//cout << (uintptr_t)name2 << endl; // cout handles char especially!!! 
 
 	return 0;
 }
