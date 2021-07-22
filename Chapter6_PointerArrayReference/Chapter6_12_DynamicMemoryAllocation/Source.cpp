@@ -18,7 +18,7 @@ int main()
 	//int var;
 	// var = 7;
 	  // these are the same! below!!
-	int *ptr = new int{ 7 };  // it's just getting memory actively!
+	int *ptr = new int{ 7 };  // it's just getting memory actively! as a pointer
 	int *ptr1 = new (std::nothrow) int{ 10 };
 	//*ptr = 7;
 

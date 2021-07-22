@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-	//const int length = 5;   static array!
+	//const int length = 5;   static array!   // dynamic allocation! get memory as a pointer first!
 	//int array[length];
 
 	//int length;
@@ -29,7 +29,7 @@ int main()
 
 	int fixedArray[] = { 1,2,3,4,5 };
 
-	int *array1 = new int[3]{ 1,2,3 };
+	int *array1 = new int[3]{ 1,2,3 };  // 3 should be there
 
 
 
