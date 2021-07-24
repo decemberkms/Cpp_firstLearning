@@ -5,7 +5,7 @@ using namespace std;
 //void pointer, generic pointer
 
 int main()
-{
+{                         // void pointer can holdd any time but impossible to dereference, of course you can do casting then dereference
 
 	int i = 5;
 	float f = 3.0;

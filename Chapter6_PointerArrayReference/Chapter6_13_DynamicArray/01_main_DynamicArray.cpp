@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-	//const int length = 5;   static array!   // dynamic allocation! get memory as a pointer first!
+	//const int length = 5;   static array!   // dynamic allocation! get memory as a pointer first! 
 	//int array[length];
 
 	//int length;

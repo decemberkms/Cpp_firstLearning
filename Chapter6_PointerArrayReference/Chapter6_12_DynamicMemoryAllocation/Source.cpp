@@ -11,7 +11,7 @@ int main()
 
 	using namespace std;
 
-	//int array2[100000000000000000]; // stack-static  heap-dynamic
+	//int array2[100000000000000000]; // stack-static  heap-dynamic  heap is much biggger so for bigdata, dynamic allocation should be used 
 	//
 	//cout << array2[0] << endl;
 	
