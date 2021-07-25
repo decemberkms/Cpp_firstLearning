@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="01_main_passingArgumentsbyvalue.cpp">
+    <ClCompile Include="01_main_callByReference.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

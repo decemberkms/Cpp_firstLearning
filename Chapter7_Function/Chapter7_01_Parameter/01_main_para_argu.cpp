@@ -12,7 +12,7 @@ int main()
 
 	//arguments and parameters
 
-	foo(6, 7); // there are arguments actual parameters
+	foo(6, 7); // there are arguments - actual parameters
 	foo(x, y + 1);
 
 	return 0;

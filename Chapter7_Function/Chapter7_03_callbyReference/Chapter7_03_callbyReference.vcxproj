@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{5d3b49a7-51d9-40d6-a4bd-be18cbf798fc}</ProjectGuid>
-    <RootNamespace>Chapter701Parameter</RootNamespace>
+    <ProjectGuid>{d536a282-14f6-4f95-9f55-df77a78b2799}</ProjectGuid>
+    <RootNamespace>Chapter703callbyReference</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,7 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="01_main_para_argu.cpp" />
+    <ClCompile Include="01_main_callByReference.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
