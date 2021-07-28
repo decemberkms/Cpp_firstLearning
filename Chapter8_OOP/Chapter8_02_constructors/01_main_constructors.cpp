@@ -26,7 +26,7 @@ public:
 
 int main()
 {
-	//Fraction frac;  // no constuctor form
+	//Fraction frac;  // no parameter form
 
 	//frac.print();
 
