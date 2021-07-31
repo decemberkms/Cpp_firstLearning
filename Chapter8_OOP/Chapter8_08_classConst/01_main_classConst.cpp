@@ -6,6 +6,12 @@ class Something
 {
 public:
 	int m_value = 0;
+	
+	Something(const Something& st_in)  // copy constructor - default value
+	{
+		cout << "Constructor" << endl;
+	}
+
 
 	Something()
 	{
@@ -41,7 +47,7 @@ int main()
 	
 
 	print(sth);
-
+	 // const can be sued for overloading for function
 
 	return 0;
 }

@@ -6,7 +6,7 @@ using namespace std;
 class Something
 {
 private:
-	static int s_value;    // static variable can be access from all the instance of this class
+	static int s_value;    // static variable can be accessed from all the instance of this class
 
 public:
 	static int getValue()

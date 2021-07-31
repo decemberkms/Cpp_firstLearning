@@ -19,7 +19,8 @@ public:
 
 };
 
-int Something::s_value = 1; // define in cpp not header
+int Something::s_value = 1; // define in cpp not header       - double declarattion problem
+// stattic variable - cpp not in header
 
 
 
