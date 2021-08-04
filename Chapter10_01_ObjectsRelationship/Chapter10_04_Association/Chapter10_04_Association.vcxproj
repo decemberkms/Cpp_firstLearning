@@ -21,10 +21,9 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{27fdb729-538b-4859-b681-577fa98fc5a6}</ProjectGuid>
-    <RootNamespace>Chapter1002Aggregation</RootNamespace>
+    <ProjectGuid>{3d47ee29-34df-4def-80f0-d1378f3b605d}</ProjectGuid>
+    <RootNamespace>Chapter1004Association</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>Chapter10_03_Aggregation</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -140,12 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="01_main_Aggregation.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="Lecture.h" />
-    <ClInclude Include="Student.h" />
-    <ClInclude Include="Teacher.h" />
+    <ClCompile Include="01_main_Association.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
