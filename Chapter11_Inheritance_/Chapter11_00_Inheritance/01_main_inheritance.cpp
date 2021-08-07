@@ -37,6 +37,13 @@ private:
 	double m_d;
 
 public:
+	
+	void setValue(const int & i_in, const double & d_in)
+	{
+		Mother::setValue(i_in);
+		m_d = d_in;
+	}
+	
 	void setValue(const double& d_in)
 	{
 		m_d = d_in;
@@ -58,5 +65,8 @@ int main()
 	Child child;
 	child.setValue(128);
 	cout << child.getValue() << endl;
+	child.Mother::setValue(100);
+
+
 
 }
