@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter11_00_Inheritance", 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter11_01_Inheritance02", "Chapter11_01_Inheritance02\Chapter11_01_Inheritance02.vcxproj", "{4A516042-7CC9-40BD-82AE-5A17A393520C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter11_02_accessSpecifier", "Chapter11_02_accessSpecifier\Chapter11_02_accessSpecifier.vcxproj", "{0BB5A94E-3365-439C-9AF4-1411D6137A01}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{4A516042-7CC9-40BD-82AE-5A17A393520C}.Release|x64.Build.0 = Release|x64
 		{4A516042-7CC9-40BD-82AE-5A17A393520C}.Release|x86.ActiveCfg = Release|Win32
 		{4A516042-7CC9-40BD-82AE-5A17A393520C}.Release|x86.Build.0 = Release|Win32
+		{0BB5A94E-3365-439C-9AF4-1411D6137A01}.Debug|x64.ActiveCfg = Debug|x64
+		{0BB5A94E-3365-439C-9AF4-1411D6137A01}.Debug|x64.Build.0 = Debug|x64
+		{0BB5A94E-3365-439C-9AF4-1411D6137A01}.Debug|x86.ActiveCfg = Debug|Win32
+		{0BB5A94E-3365-439C-9AF4-1411D6137A01}.Debug|x86.Build.0 = Debug|Win32
+		{0BB5A94E-3365-439C-9AF4-1411D6137A01}.Release|x64.ActiveCfg = Release|x64
+		{0BB5A94E-3365-439C-9AF4-1411D6137A01}.Release|x64.Build.0 = Release|x64
+		{0BB5A94E-3365-439C-9AF4-1411D6137A01}.Release|x86.ActiveCfg = Release|Win32
+		{0BB5A94E-3365-439C-9AF4-1411D6137A01}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
