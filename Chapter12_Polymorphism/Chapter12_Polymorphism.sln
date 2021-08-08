@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31515.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter12_00_polymorphism", "Chapter12_00_polymorphism\Chapter12_00_polymorphism.vcxproj", "{22C677C6-2B2F-499D-8996-FBF6DC4C21F3}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter12_01_virtualFunction", "Chapter12_01_virtualFunction\Chapter12_01_virtualFunction.vcxproj", "{2FA2C997-FBC6-4999-BFC5-A4FEFC17E7FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{22C677C6-2B2F-499D-8996-FBF6DC4C21F3}.Release|x64.Build.0 = Release|x64
 		{22C677C6-2B2F-499D-8996-FBF6DC4C21F3}.Release|x86.ActiveCfg = Release|Win32
 		{22C677C6-2B2F-499D-8996-FBF6DC4C21F3}.Release|x86.Build.0 = Release|Win32
+		{2FA2C997-FBC6-4999-BFC5-A4FEFC17E7FB}.Debug|x64.ActiveCfg = Debug|x64
+		{2FA2C997-FBC6-4999-BFC5-A4FEFC17E7FB}.Debug|x64.Build.0 = Debug|x64
+		{2FA2C997-FBC6-4999-BFC5-A4FEFC17E7FB}.Debug|x86.ActiveCfg = Debug|Win32
+		{2FA2C997-FBC6-4999-BFC5-A4FEFC17E7FB}.Debug|x86.Build.0 = Debug|Win32
+		{2FA2C997-FBC6-4999-BFC5-A4FEFC17E7FB}.Release|x64.ActiveCfg = Release|x64
+		{2FA2C997-FBC6-4999-BFC5-A4FEFC17E7FB}.Release|x64.Build.0 = Release|x64
+		{2FA2C997-FBC6-4999-BFC5-A4FEFC17E7FB}.Release|x86.ActiveCfg = Release|Win32
+		{2FA2C997-FBC6-4999-BFC5-A4FEFC17E7FB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
