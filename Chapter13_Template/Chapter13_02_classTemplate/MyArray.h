@@ -51,10 +51,18 @@ public:
 
 };
 
-template<typename T>
+template<typename T>  // cannot put in cpp file
 void MyArray<T>::print()
 {
 	for (int i = 0; i < m_length; ++i)
 		std::cout << m_data[i] << std::endl;
 	std::cout << std::endl;
 }
+
+//
+//void MyArray::print()
+//{
+//	for (int i = 0; i < m_length; ++i)
+//		std::cout << m_data[i] << std::endl;
+//	std::cout << std::endl;
+//}

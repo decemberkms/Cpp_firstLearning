@@ -1,4 +1,5 @@
-#include "MyArray.h"
+#include "MyArray.h" // copy this in here
+//#include "MyArray.cpp" // possible but bad 
 
 int main()
 {
